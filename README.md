@@ -25,4 +25,4 @@ Rule {
 }
 ```
 * **Trigger**: Some steps to trigger the rule and verify that it actually works. You can put a reference here to any public and safe tool.
-* **Notes**: Here is the place to add some clarifications related to the rule, how it works related to the OS, limitations (if any), references to any documentation that could help to understand it, etc.
+* **Notes**: Here is the place to add some clarifications related to the rule, how it works related to the OS, limitations (if any), references to any documentation that could help to understand it, etc. 
